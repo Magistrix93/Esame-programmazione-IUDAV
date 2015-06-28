@@ -3,8 +3,12 @@
 	background-color: #fb816e;
 	font-weight:bold;
 	color:#ffffff;
+
+
+
+}
+
+#header .navbar-nav{
+	color:#ffffff;
 	a:hover {text-decoration: underline; }
-
-
-
 }
