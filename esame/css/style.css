@@ -34,7 +34,6 @@
 }
 
 .custombtn  {
-	.btn {
 	-webkit-border-radius: 0;
   -moz-border-radius: 0;
   border-radius: 0px;
@@ -42,7 +41,7 @@
   color: #ff1f5d;
   font-size: 12px;
   background: #ffffff;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 60px 10px 60px;
   border: solid #ff1f5d 2px;
   text-decoration: none;
 }
@@ -52,4 +51,4 @@
   text-decoration: none;
   color: white; 
 }
-}
+
