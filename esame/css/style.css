@@ -32,3 +32,24 @@
 	font-size: 12;
 	
 }
+
+.custombtn  {
+	.btn {
+	-webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0px;
+  font-weight:bold;
+  color: #ff1f5d;
+  font-size: 12px;
+  background: #ffffff;
+  padding: 10px 20px 10px 20px;
+  border: solid #ff1f5d 2px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #ff1f5d;
+  text-decoration: none;
+  color: white; 
+}
+}
