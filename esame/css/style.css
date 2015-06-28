@@ -17,7 +17,17 @@
 	background-color: transparent;
 }
 
-.textstyle {
+.textstylemagenta {
 	color:#ff1f5d;
-	font-style: bold;
+	font-weight: bold;
+}
+
+.textstyleviolet {
+	color:#525252;
+	
+}
+
+.textstylegrey {
+	color:#c8c8c8;
+	
 }
