@@ -16,3 +16,8 @@
 	text-decoration: underline;
 	background-color: transparent;
 }
+
+.textstyle {
+	color:#ff1f5d;
+	font-style: bold;
+}
