@@ -4,8 +4,6 @@
 	font-weight:bold;
 	color:#ffffff;
 
-
-
 }
 
 #header a{
@@ -50,5 +48,9 @@
   background: #ff1f5d;
   text-decoration: none;
   color: white; 
+}
+ 
+.num{
+	padding: 15px 20px 15px 20px;
 }
 
