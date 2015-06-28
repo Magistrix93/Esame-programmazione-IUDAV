@@ -1,3 +1,35 @@
+@import url(http://weloveiconfonts.com/api/?family=entypo);
+
+
+[class*="entypo-twitter-circled"]:before {
+  font-family: 'entypo', sans-serif;
+  color:#a09f9e;
+}
+
+[class*="entypo-twitter-circled"]:hover:before {
+  font-family: 'entypo', sans-serif;
+  color:#fe2264;
+}
+
+[class*="entypo-facebook-circled"]:before {
+  font-family: 'entypo', sans-serif;
+  color:#a09f9e;
+}
+
+[class*="entypo-facebook-circled"]:hover:before {
+  font-family: 'entypo', sans-serif;
+  color:#fe2264;
+}
+
+[class*="entypo-instagrem"]:before {
+  font-family: 'entypo', sans-serif;
+  color:#a09f9e;
+}
+
+[class*="entypo-instagrem"]:hover:before {
+  color:#fe2264;
+}
+
 #header
 {
 	background-image: url("../images/header_bkg.png");
