@@ -30,6 +30,8 @@
   color:#fe2264;
 }
 
+/* class for social icon */
+
 #header
 {
 	background-image: url("../images/header_bkg.png");
@@ -47,6 +49,8 @@
 	background-color: transparent;
 }
 
+/* header */
+
 .textstylemagenta {
 	color:#ff1f5d;
 	font-weight: bold;
@@ -62,6 +66,13 @@
 	font-size: 12;
 	
 }
+
+.contacts  {
+  background: #e6e6e6;
+
+}
+
+/* class for fonts colors */
 
 .custombtn  {
 	-webkit-border-radius: 0;
@@ -86,10 +97,7 @@
 	padding: 15px 20px 15px 20px;
 }
 
-.contacts  {
-  background: #e6e6e6;
-
-}
+/* class for the custom buttons */
 
 #footer {
   background: #f5f5f5;
@@ -97,3 +105,4 @@
 
 }
 
+/* footer */
