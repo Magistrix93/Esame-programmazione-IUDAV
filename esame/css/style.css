@@ -1,6 +1,19 @@
 @import url(http://weloveiconfonts.com/api/?family=entypo);
 
 
+@font-face{
+  font-family:"OpenSans Bold";
+  src: local("OpenSans-Bold") format ('opentype');
+  src: url("../fonts/OpenSans-Bold.ttf");
+}
+
+.customfont{
+  font-family:"OpenSans Bold";
+ 
+}
+
+/* class for social icon */
+
 [class*="entypo-twitter-circled"]:before {
   font-family: 'entypo', sans-serif;
   color:#a09f9e;
@@ -30,7 +43,21 @@
   color:#fe2264;
 }
 
-/* class for social icon */
+a.entypo-twitter-circled:hover {
+
+  text-decoration: none;
+}
+
+a.entypo-facebook-circled:hover {
+
+  text-decoration: none;
+}
+
+a.entypo-instagrem:hover {
+
+  text-decoration: none;
+}
+/* header */
 
 #header
 {
@@ -49,7 +76,7 @@
 	background-color: transparent;
 }
 
-/* header */
+/* class for fonts colors */
 
 .textstylemagenta {
 	color:#ff1f5d;
@@ -72,7 +99,7 @@
 
 }
 
-/* class for fonts colors */
+/* class for the custom buttons */
 
 .custombtn  {
 	-webkit-border-radius: 0;
@@ -97,7 +124,7 @@
 	padding: 15px 20px 15px 20px;
 }
 
-/* class for the custom buttons */
+/* footer */
 
 #footer {
   background: #f5f5f5;
@@ -105,4 +132,3 @@
 
 }
 
-/* footer */
