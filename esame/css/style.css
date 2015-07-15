@@ -1,6 +1,6 @@
 @import url(http://weloveiconfonts.com/api/?family=entypo);
 
-
+/* custom font */
 @font-face{
   font-family:"OpenSans Bold";
   src: local("OpenSans-Bold") format ('opentype');
@@ -57,6 +57,7 @@ a.entypo-instagrem:hover {
 
   text-decoration: none;
 }
+
 /* header */
 
 #header
