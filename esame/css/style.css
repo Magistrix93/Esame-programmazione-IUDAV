@@ -194,3 +194,9 @@ a.entypo-instagrem:hover {
   background: #e6e6e6;
   text-align: center;
 }
+
+/* custom bootstrap */
+
+.container-fluid {
+  padding: 0px;
+}
